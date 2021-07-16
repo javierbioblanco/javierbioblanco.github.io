@@ -46,10 +46,6 @@ h1, .h1 {
 	@include mq(laptop) {
 		font-size: $h1-large;
 	}
-
-	a {
-		font-weight: $h1-weight;
-	}
 }
 
 h2, .h2 {
@@ -65,10 +61,6 @@ h2, .h2 {
 
 	@include mq(laptop) {
 		font-size: $h2-large;
-	}
-
-	a {
-		font-weight: $h2-weight;
 	}
 }
 
@@ -166,17 +158,22 @@ ul, ol {
 
 blockquote {
 	margin-top: 15px;
-	font-family: $title-font;
+	border-left: 2px solid $text-dark-color;
+	padding: 10px 0 10px 20px;
 	font-size: $blockquote-small;
 	font-weight: $blockquote-weight;
 	letter-spacing: $blockquote-spacing;
 	line-height: $blockquote-lineheight;
 
 	@include mq(tabletp) {
+		border-left-width: 3px;
+		padding: 15px 0 15px 30px;
 		font-size: $blockquote-medium;
 	}
 
 	@include mq(laptop) {
+		border-left-width: 4px;
+		padding: 20px 0 20px 40px;
 		font-size: $blockquote-large;
 	}
 
@@ -213,7 +210,6 @@ a {
 	font-size: 13px;
 	line-height: 1;
 	border: 2px solid $accent-color;
-	border-radius: 3px;
 	background: $accent-color;
 	color: $background-color;
 	font-weight: $button-weight;
@@ -272,11 +268,23 @@ a {
 	}
 }
 
+.button--overlay {
+	background: transparent;
+	border-color: $overlay-text-color;
+	color: $overlay-text-color;
+
+	&:hover {
+		background: $overlay-text-color;
+		border-color: $overlay-text-color;
+		color: $accent-color;
+	}
+}
+
 hr {
 	margin: 40px 0;
 	border: 0;
 	height: 2px;
-	background: $border-color;
+	background: $background-alt-color;
 }
 
 ::selection 	 { background: $accent-color; color: $background-color; }
@@ -346,27 +354,6 @@ body.loading {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
-.featured-image {
-	position: relative;
-	width: 100%;
-	height: 0;
-	padding-bottom: 56.25%;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-
-	@include mq(tabletl) {
-		position: fixed;
-		z-index: 10;
-		top: 0;
-		left: 0;
-		bottom: 0;
-		height: auto;
-		padding-bottom: 0;
-		width: 30%;
-	}
-}
-
 section {
 	margin-top: 40px;
 
@@ -386,22 +373,20 @@ section {
 .wrap {
 	position: relative;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 0 30px;
+	max-width: 500px;
 
 	@include mq(tabletp) {
-		padding: 0 80px;
+		padding: 0;
+		max-width: 70%;
 	}
 
 	@include mq(tabletl) {
-		padding: 0 120px;
+		max-width: 65%;
 	}
 
 	@include mq(laptop) {
-		padding: 0 140px;
-	}
-
-	@include mq(desktop) {
-		padding: 0 180px;
+		max-width: 60%;
 	}
 }
 

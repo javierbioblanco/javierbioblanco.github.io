@@ -1,6 +1,6 @@
 //
 //
-// Simples JS
+// Duet JS
 //
 //
 
@@ -29,13 +29,13 @@
 		// Load the page
 		$('.page-loader').load( state.hash + ' .page__content', function() {
 
-			// Find transition time
-			var transitionTime = 400;
-
 			// Scroll to top
 			$( 'body, html' ).animate({
 				scrollTop: 0
-			}, transitionTime);
+			}, 300);
+
+			// Find transition time
+			var transitionTime = 400;
 
 			// After current content fades out
 			setTimeout( function() {
@@ -124,9 +124,28 @@
 
 		// Wait until first image has loaded
 		$('.page__content').find('img:first').imagesLoaded( function() {
+	
+			// Portfolio grid layout
+			$('.portfolio-wrap').imagesLoaded( function() {
+				$('.portfolio-wrap').masonry({
+					itemSelector: '.portfolio-item',
+					transitionDuration: 0
+				});
+			});
+
+			// Blog grid layout
+			$('.blog-wrap').imagesLoaded( function() {
+				$('.blog-wrap').masonry({
+					itemSelector: '.blog-post',
+					transitionDuration: 0
+				});
+			});
 
 			// Show the content
 			$('body').removeClass('loading');
+
+			// Hide the menu
+			$('body').removeClass('menu--open');
 		});
 
 
@@ -135,6 +154,7 @@
 
 		// Switch active link states
 		$('.active-link').removeClass('active-link');
+
 		$('a[href="' + navTarget + '"]').addClass('active-link');
 
 
@@ -320,6 +340,30 @@
 	pageFunctions();
 
 
+	// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
+
+	$(document).on('click', '.js-menu-toggle', function (){
+
+		// If already open
+		if ( $('body').hasClass('menu--open') ) {
+			$('body').removeClass('menu--open');
+		}
+
+		// If not open
+		else {
+			$('body').addClass('menu--open');
+		}
+	});
+
+	$(document).on('click', '.menu__list__item__link', function (){
+
+		// If menu is open when you click a link on mobile
+		if ( $('.menu').hasClass('menu--open') ) {
+			$('.menu').removeClass('menu--open');
+		}
+	});
+
+
 
 	// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Contact Form
 
@@ -362,7 +406,7 @@
 			e.preventDefault();
 		}
 
-	});	
+	});
 	
 	
 	

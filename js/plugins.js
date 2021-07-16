@@ -1,6 +1,6 @@
 //
 //
-// Simples JS
+// Duet JS
 //
 //
 
