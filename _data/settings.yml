@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Javier Blanco-Portillo
-  favicon_image: /images/favicon.png
+  favicon_image: /images/FregataAriel.png
 
 header_settings:
   logo_image: 
@@ -19,8 +19,8 @@ menu_settings:
 
 footer_settings:
   logo_image: 
-  logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  logo_width:
+  footer_tagline:
 
 grid_settings:
   overlay_opacity: 0.8
@@ -56,7 +56,7 @@ social_settings:
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
-  spotify_url: ''
+  spotify_url: 'https://open.spotify.com/user/drinkwatereveryday?si=89378529bd8b45c7'
   bandcamp_url: ''
   linkedin_url: ''
 
