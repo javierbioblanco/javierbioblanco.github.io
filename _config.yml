@@ -49,9 +49,9 @@ sass:
   style: compressed
 
 plugins:
+  - jemoji
   - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
 
 paginate: 6
 paginate_path: "/blog/page:num/"
