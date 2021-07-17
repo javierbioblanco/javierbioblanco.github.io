@@ -8,11 +8,11 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Figures'
       url: '/'
-    - title: 'Blog'
+    - title: 'Papers'
       url: '/blog/'
-    - title: 'About'
+    - title: 'CV'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
