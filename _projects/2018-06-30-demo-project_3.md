@@ -1,5 +1,5 @@
 ---
-title: 'Demo Project'
+title: 'Native American gene flow into Polynesia predating Easter Island settlement (Co-first author, 2020)'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.

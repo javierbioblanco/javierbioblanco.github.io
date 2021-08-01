@@ -8,10 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'About'
+    - title: 'Research'
       url: '/'
-    - title: 'Papers'
-      url: '/blog/'
     - title: 'CV'
       url: '/about'
     - title: 'Contact'
