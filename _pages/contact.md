@@ -5,7 +5,7 @@ description:
 featured_image: /images/yo.JPG
 ---
 
-Say hi!
+## Say hi!
 
 {% include contact-form.html %}
 
