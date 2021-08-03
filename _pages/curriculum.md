@@ -5,4 +5,6 @@ description:
 featured_image: /images/yo.JPG
 ---
 
-<embed src="CV_2021.pdf" style="display:block;text-align:center" width="500" height="600" type="application/pdf">
+<p align="center">
+<embed src="CV_2021.pdf" width="500" height="600" type="application/pdf">
+</p>
