@@ -5,4 +5,4 @@ description:
 featured_image: /images/yo.jpg
 ---
 
-You can find it [here](/documents/CV_2021.pdf).
+You can find it [here](CV_2021.pdf).
