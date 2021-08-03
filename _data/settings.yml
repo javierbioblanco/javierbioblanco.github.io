@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Research'
+    - title: 'Research & Photos'
       url: '/'
     - title: 'CV'
       url: '/about'
