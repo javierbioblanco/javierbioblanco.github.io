@@ -1,5 +1,5 @@
 ---
-title: My Curriculum Vitae
+title:
 subtitle: 
 description: 
 featured_image: /images/yo.JPG
