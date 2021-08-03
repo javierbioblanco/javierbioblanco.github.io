@@ -1,5 +1,5 @@
 ---
-title: Say hi!
+title: Say hi :)
 subtitle: 
 description:
 featured_image: /images/yo.JPG
