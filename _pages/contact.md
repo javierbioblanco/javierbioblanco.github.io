@@ -1,5 +1,5 @@
 ---
-title: Contact
+title:
 subtitle: 
 description:
 featured_image: /images/yo.JPG
