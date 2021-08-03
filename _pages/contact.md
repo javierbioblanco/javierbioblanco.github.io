@@ -1,11 +1,9 @@
 ---
-title:
+title: Say hi!
 subtitle: 
 description:
 featured_image: /images/yo.JPG
 ---
-
-## Say hi!
 
 {% include contact-form.html %}
 
