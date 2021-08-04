@@ -9,6 +9,6 @@ featured_image: /images/yo.JPG
 <embed src="CV_2021.pdf" width="600" height="1000" type="application/pdf">
 </p>
 
-[CV](http://javierbioblanco.github.io/javierbioblanco/documents/Intro.pdf)
+[CV](http://javierbioblanco.github.io/javierbioblanco/documents/CV_2021.pdf)
 
 <a href="documents/CV_2021.pdf" class="image fit" type="application/pdf"><img src="images/fregataAriel.jpg" alt=""></a>
