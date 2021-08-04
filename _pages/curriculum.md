@@ -9,4 +9,4 @@ featured_image: /images/yo.JPG
 <embed src="CV_2021.pdf" width="600" height="1000" type="application/pdf">
 </p>
 
-You can find it right<a href="/documents/CV_2021.pdf" target="_blank">here.</a>
+You can find it right <a href="CV_2021.pdf" target="_blank">here.</a>
