@@ -6,14 +6,9 @@ featured_image: /images/yo.JPG
 ---
 
 <p align="center">
-<embed src="CV_2021.pdf" width="600" height="1000" type="application/pdf">
+<embed src="javierBlanco_CV.pdf" width="600" height="1000" type="application/pdf">
 </p>
 
-[CV](http://javierbioblanco.github.io/javierbioblanco/documents/CV_2021.pdf)
+[CV](https://github.com/javierbioblanco/javierbioblanco.github.io/raw/master/documents/javierBlanco_CV.pdf)
 
-[CV2](https://github.com/javierbioblanco/javierbioblanco.github.io/raw/master/documents/CV_2021.pdf)
-
-[CV3](https://github.com/javierbioblanco/javierbioblanco.github.io/documents/CV_2021.pdf)
-
-
-<a href="documents/CV_2021.pdf" class="image fit" type="application/pdf"><img src="images/fregataAriel.jpg" alt=""></a>
+<a href="https://github.com/javierbioblanco/javierbioblanco.github.io/raw/master/documents/javierBlanco_CV.pdf" class="image fit" type="application/pdf"><img src="images/fregataAriel.jpg" alt=""></a>
