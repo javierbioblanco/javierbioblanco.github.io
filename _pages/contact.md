@@ -2,7 +2,7 @@
 title: Say hi :)
 subtitle: 
 description:
-featured_image: /images/yo.JPG
+featured_image:
 ---
 
 Or tell me a story.
