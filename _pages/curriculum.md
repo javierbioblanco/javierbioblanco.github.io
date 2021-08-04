@@ -10,5 +10,5 @@ featured_image: /images/yo.JPG
 </p>
 
 <p></p>
-You can find it right <a href="/CV_2021.pdf" target="_blank">here.</a>
-You can find it right <a href="/CV_2021.pdf">here.</a>
+You can find it right <a href="/documents/CV_2021.pdf" target="_blank">here.</a>
+You can find it right <a href="/documents/CV_2021.pdf">here.</a>
