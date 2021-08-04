@@ -1,7 +1,7 @@
 site: Duet Jekyll Theme
 
 url: 
-baseurl: /javierbioblanco
+baseurl: /javierbioblanco.github.io
 
 collections:
   pages:
