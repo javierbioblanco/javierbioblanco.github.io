@@ -10,4 +10,4 @@ featured_image: '/images/pipelineFinal.jpg'
 	<img src="/images/pipelineFinal.jpg">
 </div>
 
-This is an overview of the ancestry-specific analyses we use. Local ancestry assignments along phased genotypes detected via [RFMix](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738819/)(top left) enable us to carry out analyses using ancestry-specific genome blocks: (a) ancestry-specific identity-by-descent segment analysis, (b) ancestry-specific tract length distribution analysis, and (c) ancestry-specific principal component analysis (PCA) and multidimensional scaling (MDS).
+This is an overview of the ancestry-specific analyses we use. Local ancestry assignments along phased genotypes detected via [RFMix](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738819/) (top left) enable us to carry out analyses using ancestry-specific genome blocks: (a) ancestry-specific identity-by-descent segment analysis, (b) ancestry-specific tract length distribution analysis, and (c) ancestry-specific principal component analysis (PCA) and multidimensional scaling (MDS).
