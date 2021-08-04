@@ -50,8 +50,8 @@ sass:
 
 plugins:
   - jemoji
-  #- jekyll-paginate
-  #- jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 6
 paginate_path: "/blog/page:num/"
