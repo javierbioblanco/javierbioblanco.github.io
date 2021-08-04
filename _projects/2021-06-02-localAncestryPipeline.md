@@ -6,6 +6,6 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/pipelineFinal.jpg'
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
 	<img src="/images/pipelineFinal.jpg">
 </div>
