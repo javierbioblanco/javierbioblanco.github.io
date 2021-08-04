@@ -13,4 +13,7 @@ featured_image: /images/yo.JPG
 
 [CV2](https://github.com/javierbioblanco/javierbioblanco.github.io/raw/master/documents/CV_2021.pdf)
 
+[CV3](https://github.com/javierbioblanco/javierbioblanco.github.io/documents/CV_2021.pdf)
+
+
 <a href="documents/CV_2021.pdf" class="image fit" type="application/pdf"><img src="images/fregataAriel.jpg" alt=""></a>
