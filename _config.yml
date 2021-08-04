@@ -49,6 +49,7 @@ sass:
   style: compressed
 
 plugins:
+  - jekyll-pdf-embed
   - jemoji
   #- jekyll-paginate
   #- jekyll-sitemap
