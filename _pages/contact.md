@@ -7,7 +7,7 @@ featured_image:
 
 <img src="/images/BioBlancoContacto72.png">
 
-Or tell me a story.
+<center>Or tell me a story.</center>
 
 {% include contact-form.html %}
 
