@@ -8,11 +8,11 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Research & Photos'
+    - title: 'What I do'
       url: '/'
     #- title: 'CV'
     #  url: '/curriculum'
-    - title: 'Contact'
+    - title: 'Say hi!'
       url: '/contact'
 
 footer_settings:
