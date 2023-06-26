@@ -8,11 +8,11 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'what I do'
+    - title: 'What I do'
       url: '/'
     #- title: 'CV'
     #  url: '/curriculum'
-    - title: 'let's connect!'
+    - title: 'Let's connect!'
       url: '/contact'
 
 footer_settings:
