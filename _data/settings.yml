@@ -12,7 +12,7 @@ menu_settings:
       url: '/'
     #- title: 'CV'
     #  url: '/curriculum'
-    - title: 'Say hi!'
+    - title: 'Let's connect!'
       url: '/contact'
 
 footer_settings:
