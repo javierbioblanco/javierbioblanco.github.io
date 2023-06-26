@@ -10,8 +10,6 @@ menu_settings:
   menu_items:
     - title: 'What I do'
       url: '/'
-    #- title: 'CV'
-    #  url: '/curriculum'
     - title: 'Let's connect!'
       url: '/contact'
 
