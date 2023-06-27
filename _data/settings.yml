@@ -23,7 +23,7 @@ menu_settings:
 #      url: '/publications'
 #    - title: 'About'
 #      url: '/about'
-    - title: 'Let's connect!'
+    - title: 'Get in Touch!'
       url: '/contact'
 
 grid_settings:
