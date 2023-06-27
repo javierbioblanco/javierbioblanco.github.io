@@ -3,24 +3,32 @@ basic_settings:
   favicon_image: /images/star.png
 
 header_settings:
+  avatar_image: /images/star.png
   logo_image:
-  logo_width:
+  logo_width: 200
 
 menu_settings:
   menu_items:
     - title: 'What I do'
       url: '/'
+#    - title: 'Projects'
+#      url: '/projects/'
+#    - title: 'Students'
+#      url: '/students'
+#    - title: 'Collaborators'
+#      url: '/collaborators'
+#    - title: 'Staff'
+#      url: '/staff'
+#    - title: 'Publications'
+#      url: '/publications'
+#    - title: 'About'
+#      url: '/about'
     - title: 'Let's connect!'
-      url: '/contact/'
-
-footer_settings:
-  logo_image:
-  logo_width:
-  footer_tagline:
+      url: '/contact'
 
 grid_settings:
-  overlay_opacity: 0.8
   grid_spacing: 10
+  overlay_opacity: 0.8
 
 contact_settings:
   form_action: ''
