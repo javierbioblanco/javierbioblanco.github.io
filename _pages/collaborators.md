@@ -9,10 +9,7 @@ Science fundamentally thrives when discoveries and insights are shared and built
 
 <i>[Work in progress!]</i>
 
-<p><span>&#8226;</span> Andrés Moreno Estrada, my Masters advisor!</p>
-
-http://www.morenolab.org
-
+<p><span>&#8226;</span> <a href="http://www.morenolab.org">Andrés Moreno Estrada</a>, my Masters mentor & advisor</p>
 <p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=en">Carmina Barberena Jonás</a>, from the Moreno Lab at LANGEBIO (CINVESTAV)</p>
 <p><span>&#8226;</span> Juan Esteban Rodríguez Rodríguez, from Noah Rosenberg's Lab at Stanford</p>
 <p><span>&#8226;</span> Mark Penjueli, from Aashish Jha's Lab at NYU Abu Dhabi</p>
