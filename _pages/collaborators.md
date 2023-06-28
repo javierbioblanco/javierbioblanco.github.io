@@ -20,7 +20,7 @@ http://www.morenolab.org
 <p><span>&#8226;</span> Jan Sokol</p>
 <p><span>&#8226;</span> Obed García</p>
 <p><span>&#8226;</span> May Levin</p>
-<p><span>&#8226;</span> Joshua C. McDonald, from Yoav Ram's Lab at </p>
-<p><span>&#8226;</span> Sven Kasser, from Kevin Laland's Lab at </p>
+<p><span>&#8226;</span> Joshua C. McDonald, from Yoav Ram's Lab at Tel Aviv University</p>
+<p><span>&#8226;</span> Sven Kasser, from Kevin Laland's Lab at St. Andrews</p>
 <p><span>&#8226;</span> Hao Shen, from John Novembre's Lab at the University of Chicago</p>
 <p><span>&#8226;</span> Keolu Fox</p>
