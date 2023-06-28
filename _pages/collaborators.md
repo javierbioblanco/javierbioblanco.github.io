@@ -16,6 +16,7 @@ Science fundamentally thrives when discoveries and insights are shared and built
 <p><span>&#8226;</span> Kekoa Teparra</p>
 <p><span>&#8226;</span> Jan Sokol</p>
 <p><span>&#8226;</span> Obed García</p>
+<p><span>&#8226;</span> May Levin</p>
 <p><span>&#8226;</span> Joshua C. McDonald, from Yoav Ram's Lab at </p>
 <p><span>&#8226;</span> Sven Kasser, from Yoav Ram's Lab at </p>
 <p><span>&#8226;</span> Hao Shen, from John Novembre's Lab at the University of Chicago</p>
