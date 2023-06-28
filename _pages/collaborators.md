@@ -7,7 +7,7 @@ featured_image:
 
 Science fundamentally thrives when discoveries and insights are shared and built upon within a global community of scholars. I'm lucky to count the following people as my current collaborators:
 
-<i>Work in progress</i>
+<i>[Work in progress!]</i>
 
 <p><span>&#8226;</span> Andrés Moreno Estrada, my Masters advisor!</p>
 <p><span>&#8226;</span> Carmina Barberena Jonás, from the Moreno Lab at LANGEBIO (CINVESTAV)</p>
