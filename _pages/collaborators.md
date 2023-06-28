@@ -1,5 +1,5 @@
 ---
-title: Collaborators
+title: Science is inherently a communal effort...
 subtitle: 
 description:
 featured_image:
