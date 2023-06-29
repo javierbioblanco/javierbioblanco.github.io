@@ -8,6 +8,7 @@ featured_image:
 Science thrives when discoveries and insights are shared and built upon within a global community of scholars. I'm lucky to count the people below as my current collaborators. In no particular order:
 
 <p><span>&#8226;</span> <a href="http://www.morenolab.org">Prof. Andrés Moreno Estrada</a>, my Masters mentor & advisor</p>
+<p><span>&#8226;</span> <a href="https://www-evo.stanford.edu">Prof. Marcus Feldman</a></p>
 <p><span>&#8226;</span> <a href="https://ai-page.org">Prof. Alex Ioannidis</a></p>
 <p><span>&#8226;</span> <a href="https://rosenberglab.stanford.edu">Prof. Noah Rosenberg</a></p>
 <p><span>&#8226;</span> <a href="https://web.stanford.edu/group/pritchardlab/home.html">Prof. Jonathan Pritchard</a></p>
