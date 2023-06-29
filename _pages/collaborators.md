@@ -21,6 +21,6 @@ Science thrives when discoveries and insights are shared and built upon within a
 <p><span>&#8226;</span> <a href="https://anthrologue.org/people/sven-kasser/">Sven Kasser</a>, PhD student working with Kevin Laland and Laura Fortunato at the university of St. Andrews</p>
 <p><span>&#8226;</span> <a href="http://jnpopgen.org/team/">Hao Shen</a>, postdoctoral scholar working with John Novembre at the University of Chicago</p>
 <p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=zbxm15gAAAAJ&hl=en">Talia Borofsky</a>, PhD student working with Marcus Feldman at Stanford</p>
-<p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=zbxm15gAAAAJ&hl=en">Kaleda Denton</a>, postdoctoral scholar working with Marcus Feldman at Stanford</p>
+<p><span>&#8226;</span> <a href="https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en">Kaleda Denton</a>, postdoctoral scholar working with Marcus Feldman at Stanford</p>
 
 
