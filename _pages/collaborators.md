@@ -7,18 +7,18 @@ featured_image:
 
 Science thrives when discoveries and insights are shared and built upon within a global community of scholars. I'm lucky to count the people below as my current collaborators. In no particular order:
 
-<i>[Work in progress!]</i>
-
 <p><span>&#8226;</span> <a href="http://www.morenolab.org">Andrés Moreno Estrada</a>, my Masters mentor & advisor</p>
-<p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=en">Carmina Barberena Jonás</a>, from the Moreno Lab at LANGEBIO (CINVESTAV)</p>
-<p><span>&#8226;</span> <a href="https://twitter.com/kaboosari?lang=en">Juan Esteban Rodríguez Rodríguez</a>, from Noah Rosenberg's Lab at Stanford</p>
-<p><span>&#8226;</span> <a href="https://twitter.com/markpenjueli?lang=en">Mark Penjueli</a>, from Aashish Jha's Lab at NYU Abu Dhabi</p>
+<p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=en">Carmina Barberena Jonás</a>, PhD student working with Andrés Moreno at LANGEBIO (CINVESTAV)</p>
+<p><span>&#8226;</span> <a href="https://twitter.com/kaboosari?lang=en">Juan Esteban Rodríguez Rodríguez</a>, Biology PhD student working with Noah Rosenberg at Stanford</p>
+<p><span>&#8226;</span> <a href="https://twitter.com/markpenjueli?lang=en">Mark Penjueli</a>, research assistant working with Aashish Jha at NYU Abu Dhabi</p>
+<p><span>&#8226;</span> <a href="https://maylevin.com">May Levin</a>, Stanford undergraduate studying computer science and mechanical engineering
 <p><span>&#8226;</span> <a href="https://profiles.stanford.edu/ktaparra">Kekoa Taparra</a>, resident physician in the Department of Radiation Oncology at Stanford </p>
-<p><span>&#8226;</span> Jan Sokol</p>
-<p><span>&#8226;</span> Obed García</p>
-<p><span>&#8226;</span> Keolu Fox</p>
-<p><span>&#8226;</span> May Levin</p>
+<p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=CkAx09UAAAAJ&hl=en">Jan Sokol</a>, MD student at Boston University</p>
+<p><span>&#8226;</span> <a href="https://www.obedaram.com">Obed García</a>, postdoctoral scholar in the Department of Biomedical Data Sciences at Stanford</p>
+<p><span>&#8226;</span> <a href="https://twitter.com/KeoluFox">Keolu Fox</a>, assistant professor at the University of California, San Diego </p>
+
 <p><span>&#8226;</span> Joshua C. McDonald, from Yoav Ram's Lab at Tel Aviv University</p>
 <p><span>&#8226;</span> Sven Kasser, from Kevin Laland's Lab at St. Andrews</p>
 <p><span>&#8226;</span> Hao Shen, from John Novembre's Lab at the University of Chicago</p>
+<p><span>&#8226;</span> Talia Borofsky</p>
 
