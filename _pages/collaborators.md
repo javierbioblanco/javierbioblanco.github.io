@@ -5,7 +5,7 @@ description:
 featured_image:
 ---
 
-Science fundamentally thrives when discoveries and insights are shared and built upon within a global community of scholars. I'm lucky to count the people below as my current collaborators. In no particular order:
+Science thrives when discoveries and insights are shared and built upon within a global community of scholars. I'm lucky to count the people below as my current collaborators. In no particular order:
 
 <i>[Work in progress!]</i>
 
