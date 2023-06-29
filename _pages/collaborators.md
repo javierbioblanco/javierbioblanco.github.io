@@ -7,7 +7,10 @@ featured_image:
 
 Science thrives when discoveries and insights are shared and built upon within a global community of scholars. I'm lucky to count the people below as my current collaborators. In no particular order:
 
-<p><span>&#8226;</span> <a href="http://www.morenolab.org">Andrés Moreno Estrada</a>, my Masters mentor & advisor</p>
+<p><span>&#8226;</span> <a href="http://www.morenolab.org">Prof. Andrés Moreno Estrada</a>, my Masters mentor & advisor</p>
+<p><span>&#8226;</span> <a href="https://ai-page.org">Prof. Alex Ioannidis</a></p>
+<p><span>&#8226;</span> <a href="https://rosenberglab.stanford.edu">Prof. Noah Rosenberg</a></p>
+<p><span>&#8226;</span> <a href="https://web.stanford.edu/group/pritchardlab/home.html">Prof. Jonathan Pritchard</a></p>
 <p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=en">Carmina Barberena Jonás</a>, PhD student working with Andrés Moreno at LANGEBIO (CINVESTAV)</p>
 <p><span>&#8226;</span> <a href="https://twitter.com/kaboosari?lang=en">Juan Esteban Rodríguez Rodríguez</a>, Biology PhD student working with Noah Rosenberg at Stanford</p>
 <p><span>&#8226;</span> <a href="https://twitter.com/markpenjueli?lang=en">Mark Penjueli</a>, research assistant working with Aashish Jha at NYU Abu Dhabi</p>
