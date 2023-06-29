@@ -11,3 +11,5 @@ featured_image:
 
 {% include contact-form.html %}
 
+You can also email me: javierbp at stanford edu
+
