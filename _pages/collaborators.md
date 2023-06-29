@@ -11,8 +11,8 @@ Science fundamentally thrives when discoveries and insights are shared and built
 
 <p><span>&#8226;</span> <a href="http://www.morenolab.org">Andrés Moreno Estrada</a>, my Masters mentor & advisor</p>
 <p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=en">Carmina Barberena Jonás</a>, from the Moreno Lab at LANGEBIO (CINVESTAV)</p>
-<p><span>&#8226;</span> Juan Esteban Rodríguez Rodríguez, from Noah Rosenberg's Lab at Stanford</p>
-<p><span>&#8226;</span> Mark Penjueli, from Aashish Jha's Lab at NYU Abu Dhabi</p>
+<p><span>&#8226;</span> <a href="https://twitter.com/kaboosari?lang=en">Juan Esteban Rodríguez Rodríguez</a>, from Noah Rosenberg's Lab at Stanford</p>
+<p><span>&#8226;</span> <a href="https://twitter.com/markpenjueli?lang=en">Mark Penjueli</a>, from Aashish Jha's Lab at NYU Abu Dhabi</p>
 <p><span>&#8226;</span> <a href="https://profiles.stanford.edu/ktaparra">Kekoa Taparra</a>, resident physician in the Department of Radiation Oncology at Stanford </p>
 <p><span>&#8226;</span> Jan Sokol</p>
 <p><span>&#8226;</span> Obed García</p>
