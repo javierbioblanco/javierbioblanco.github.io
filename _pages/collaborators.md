@@ -18,9 +18,9 @@ Science thrives when discoveries and insights are shared and built upon within a
 <p><span>&#8226;</span> <a href="https://twitter.com/KeoluFox">Keolu Fox</a>, assistant professor at the University of California, San Diego </p>
 <p><span>&#8226;</span> <a href="https://sites.google.com/view/ceciliapadillaiglesias/home?authuser=0">Cecilia Padilla Iglesias</a>, PhD candidate working with Andrea Migliano at the University of Zürich</p>
 <p><span>&#8226;</span> <a href="https://sites.google.com/view/macs-math/home">Joshua C. McDonald</a>, postdoctoral scholar working with Yoav Ram at Tel Aviv University</p>
-<p><span>&#8226;</span> <a href="https://anthrologue.org/people/sven-kasser/">Sven Kasser</a>, PhD student working with Kevin Laland and Laura Fortunato at the university of St. Andrews.</p>
-<p><span>&#8226;</span> Hao Shen, from John Novembre's Lab at the University of Chicago</p>
-<p><span>&#8226;</span> Talia Borofsky</p>
-<p><span>&#8226;</span> Kaleda Denton</p>
+<p><span>&#8226;</span> <a href="https://anthrologue.org/people/sven-kasser/">Sven Kasser</a>, PhD student working with Kevin Laland and Laura Fortunato at the university of St. Andrews</p>
+<p><span>&#8226;</span> Hao Shen, postdoctoral scholar working with John Novembre at the University of Chicago</p>
+<p><span>&#8226;</span> Talia Borofsky, postdoctoral scholar working with...</p>
+<p><span>&#8226;</span> Kaleda Denton, postdoctoral scholar working with Marcus Feldman at Stanford</p>
 
 
