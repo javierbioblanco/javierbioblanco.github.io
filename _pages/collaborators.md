@@ -12,7 +12,7 @@ Science thrives when discoveries and insights are shared and built upon within a
 <p><span>&#8226;</span> <a href="https://ai-page.org">Prof. Alex Ioannidis</a>, eternal mentor, member of my PhD thesis committee</p>
 <p><span>&#8226;</span> <a href="https://rosenberglab.stanford.edu">Prof. Noah Rosenberg</a>, member of my PhD thesis committee</p>
 <p><span>&#8226;</span> <a href="https://web.stanford.edu/group/pritchardlab/home.html">Prof. Jonathan Pritchard</a>, member of my PhD thesis committee</p>
-<p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=en">Carmina Barberena Jonás</a>, PhD student working with Andrés Moreno at LANGEBIO (CINVESTAV)</p>
+<p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=en">Carmina Barberena Jonás</a>, PhD student working with Andrés Moreno at LANGEBIO</p>
 <p><span>&#8226;</span> <a href="https://twitter.com/kaboosari?lang=en">Juan Esteban Rodríguez Rodríguez</a>, Biology PhD student working with Noah Rosenberg at Stanford</p>
 <p><span>&#8226;</span> <a href="https://twitter.com/markpenjueli?lang=en">Mark Penjueli</a>, research assistant working with Aashish Jha at NYU Abu Dhabi</p>
 <p><span>&#8226;</span> <a href="https://maylevin.com">May Levin</a>, Stanford undergraduate studying computer science and mechanical engineering
