@@ -16,6 +16,7 @@ Science thrives when discoveries and insights are shared and built upon within a
 <p><span>&#8226;</span> <a href="https://scholar.google.com/citations?user=CkAx09UAAAAJ&hl=en">Jan Sokol</a>, MD student at Boston University</p>
 <p><span>&#8226;</span> <a href="https://www.obedaram.com">Obed García</a>, postdoctoral scholar in the Department of Biomedical Data Sciences at Stanford</p>
 <p><span>&#8226;</span> <a href="https://twitter.com/KeoluFox">Keolu Fox</a>, assistant professor at the University of California, San Diego </p>
+<p><span>&#8226;</span> <a href="https://anthropology.manoa.hawaii.edu/pat-kirch/">Prof. Patrick Kirch</a>, historical anthropologist who studies the deep-time history of the peoples of the Pacific at the University of Hawaii</p>
 <p><span>&#8226;</span> <a href="https://sites.google.com/view/ceciliapadillaiglesias/home?authuser=0">Cecilia Padilla Iglesias</a>, PhD candidate working with Andrea Migliano at the University of Zürich</p>
 <p><span>&#8226;</span> <a href="https://sites.google.com/view/macs-math/home">Joshua Macdonald</a>, postdoctoral scholar working with Yoav Ram at Tel Aviv University</p>
 <p><span>&#8226;</span> <a href="https://anthrologue.org/people/sven-kasser/">Sven Kasser</a>, PhD student working with Kevin Laland and Laura Fortunato at the university of St. Andrews</p>
