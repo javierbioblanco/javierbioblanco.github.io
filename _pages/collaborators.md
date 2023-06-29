@@ -7,7 +7,7 @@ featured_image:
 
 Science thrives when discoveries and insights are shared and built upon within a global community of scholars. I'm lucky to count the people below as my current collaborators. In no particular order:
 
-<p><span>&#8226;</span> <a href="https://www-evo.stanford.edu">Prof. Marcus Feldman, my PhD advisor</a></p>
+<p><span>&#8226;</span> <a href="https://www-evo.stanford.edu">Prof. Marcus Feldman</a>, my PhD advisor</p>
 <p><span>&#8226;</span> <a href="http://www.morenolab.org">Prof. Andrés Moreno Estrada</a>, my Masters mentor & advisor</p>
 <p><span>&#8226;</span> <a href="https://ai-page.org">Prof. Alex Ioannidis</a>, eternal mentor, member of my PhD thesis committee</p>
 <p><span>&#8226;</span> <a href="https://rosenberglab.stanford.edu">Prof. Noah Rosenberg</a>, member of my PhD thesis committee</p>
