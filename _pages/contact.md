@@ -9,7 +9,8 @@ featured_image:
 
 <center>Or tell me a story.</center>
 <p></p>
-<center>(You can also email me: javierbp at stanford edu)</center>
 
 {% include contact-form.html %}
+
+<center>(You can also email me: javierbp at stanford edu)</center>
 
