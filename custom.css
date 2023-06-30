@@ -1,10 +1,14 @@
 .flex-container {
     display: flex;
-    align-items: flex-start; 
+    align-items: flex-start;
+    margin: 0 auto; /* This centers the flex container */
+    max-width: 1200px; /* This sets a maximum width */
+    padding: 0 20px; /* This prevents the content from touching the edges */
   }
   
   .profile-pic {
-    margin-right: 20px;
-    width: 200px; 
+    margin-right: 50px; /* Adjust this to control the gap between the image and text */
+    width: 200px;
     height: auto;
   }
+  
