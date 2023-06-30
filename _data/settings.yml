@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   avatar_image:
-  logo_image: /images/io.jpg
+  logo_image:
   logo_width:
 
 menu_settings:
