@@ -5,8 +5,6 @@ description:
 featured_image:
 ---
 
-<img src="/images/world.png">
-
 Science thrives when discoveries and insights are shared and built upon within a global community of scholars. I'm lucky to count the people below as my current collaborators. In no particular order:
 
 <p><span>&#8226;</span> <a href="https://www-evo.stanford.edu">Prof. Marcus Feldman</a>, PhD advisor</p>
