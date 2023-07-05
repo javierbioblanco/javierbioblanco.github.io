@@ -6,7 +6,7 @@ description:
 featured_image: '/images/nativeAmericanScreenshot.jpg'
 ---
 
-You can find the paper [here](https://www.nature.com/articles/s41586-020-2487-2?fbclid=IwAR15h11nIkshz3M6cn_E_Yfvxewz8C-whBNdQ4vHaNRKAgwHkoWuZUvn-MM). Feel free to contact me if you don't have access behind the paywall).
+You can find the paper [here](https://www.nature.com/articles/s41586-020-2487-2?fbclid=IwAR15h11nIkshz3M6cn_E_Yfvxewz8C-whBNdQ4vHaNRKAgwHkoWuZUvn-MM). Feel free to contact me if you don't have access behind the paywall.
 
 The story was featured by [Carl Zimmer](https://carlzimmer.com) in the [The New York Times](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html), and by [National Geographic](https://www.nationalgeographic.com/history/article/dna-pre-columbian-contact-polynesians-native-americans), [Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/native-americans-polynesians-meet-180975269/), [El País](https://elpais.com/ciencia/2020-07-08/los-nativos-americanos-y-los-polinesios-entraron-en-contacto-siglos-antes-de-que-llegaran-los-europeos.html), [BBC News](https://www.bbc.com/news/science-environment-53338203), among others.
 
