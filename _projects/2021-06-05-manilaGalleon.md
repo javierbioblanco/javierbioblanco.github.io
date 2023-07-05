@@ -6,7 +6,7 @@ description:
 featured_image: '/images/spanishGalleon.png'
 ---
 
-Led by collaborator and friend, Juan Esteban Rodríguez Rodríguez, this paper was part of a special issue published by the Royal Society's Philosophical Transactions, ‘Celebrating 50 years since Lewontin's apportionment of human diversity’. You can find the paper [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0419).
+Led by collaborator and friend, [Juan Esteban Rodríguez Rodríguez](https://twitter.com/kaboosari), this paper was part of a special issue published by the Royal Society's Philosophical Transactions, ‘Celebrating 50 years since Lewontin's apportionment of human diversity’. You can find it [here](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0419).
 
 And a piece written by Lizzie Wade for Science, [Latin America's lost histories revealed in modern DNA](https://www.science.org/content/article/latin-america-s-lost-histories-revealed-modern-dna).
 
