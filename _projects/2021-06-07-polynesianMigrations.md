@@ -8,6 +8,8 @@ featured_image: '/images/migrationMap.jpg'
 
 You can find the paper [here](https://www.nature.com/articles/s41586-021-03902-8).
 
+And a great summary written by coauthor Keolu Fox for Scientific American [here](https://www.scientificamerican.com/article/genomes-show-the-history-and-travels-of-indigenous-peoples/).
+
 <div class="gallery" data-columns="1">
 	<img src="/images/migrationMap.jpg">
 	<img src="/images/polynesia1.jpg">
