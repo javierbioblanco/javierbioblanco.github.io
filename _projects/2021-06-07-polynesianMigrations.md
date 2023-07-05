@@ -6,9 +6,9 @@ description:
 featured_image: '/images/migrationMap.jpg'
 ---
 
-You can find the paper [here](https://www.nature.com/articles/s41586-021-03902-8).
+You can find the paper [here](https://www.nature.com/articles/s41586-021-03902-8). Feel free to contact me if you don't have access behind the paywall.
 
-And a great opinion piece written by coauthor Keolu Fox for <i>Scientific American</i> [here](https://www.scientificamerican.com/article/genomes-show-the-history-and-travels-of-indigenous-peoples/).
+And a great opinion piece written by coauthor Keolu Fox for <i>Scientific American</i>, [Genomes Show the History and Travels of Indigenous Peoples](https://www.scientificamerican.com/article/genomes-show-the-history-and-travels-of-indigenous-peoples/).
 
 <div class="gallery" data-columns="1">
 	<img src="/images/migrationMap.jpg">
